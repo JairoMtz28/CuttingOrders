@@ -2,6 +2,8 @@
 
 Este programa fue desarrollado en **Visual Studio** utilizando formularios de **Windows Forms**, programación en **Visual Basic** y consultas **SQL**, con el objetivo de gestionar eficientemente las órdenes de corte de distintas máquinas en un entorno de producción.
 
+<p align="center"><img width="500" alt="Captura de pantalla (19)" src="https://github.com/user-attachments/assets/287d6e92-cdf9-40fe-b390-78afd6f8e2b3" /></p>
+
 ## Funcionalidades principales
 
 - **Visualización de órdenes:** permite consultar y mostrar una lista completa de órdenes de corte, incluyendo detalles como número de orden, máquina asignada, fecha y estatus.  
